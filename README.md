@@ -17,3 +17,13 @@ You can also customize the server settings and game modes as needed by going int
 `
 nano server.properties
 `
+
+## Installation
+
+1. Create a new virtual machine instance in GCP and choose the Ubuntu operating system.
+2. Connect to your virtual machine instance using SSH terminal.
+3. Install Java and screen on your virtual machine instance. 
+4. Find Minecraft server software and configure it to run on your virtual machine instance.
+5. Open the necessary firewall ports to allow players to connect to your server.
+6. Connect to your server using your Minecraft client, enter in the external IP Address and start playing!
+
